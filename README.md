@@ -1,5 +1,5 @@
 # Stack-Buffer-Overflow
-We use this script in a classic buffer overflow for CTF and such
+We use this scripts in a classic buffer overflow for CTF and such
 You will need to edit the scripts withe correct IP and port
 Also provide your own shell code.
 
